@@ -1,0 +1,13 @@
+1. Tema project : Kawaii SUMAHO Website
+2. Tingkat kesulitan : Untuk saat ini tingkat easy
+3. Judul project	: SUMAHO informasi tentang Smartphone
+4. Nama & NRP : Ardhia Pramesti | 183040109
+5. Daftar-Fitur yang sudah dikerjakan :-
+6. Daftar-Fitur yang akan tersedia: -
+7. Kesulitan dan pengalaman sampai saat ini.
+	Kesulitannya membuat fungsi, lalu menentukan letak query nya bagaimana, array nya suka error, yang paling sering adalah typo ngetiknya. 
+	Bingung juga peletakan pemanggilan $_GET dan $_POST nya, saya kurang mengerti kenapa harus ada header atau LOCATION :. Ya tentunya harus nonton video pak dhika. Tapi materi video pak dhika itu lebih rumit dari praktikum, sering bingung sendiri saya harus pakai yang dari praktikum atau video pak dhika. 
+
+	Kali ini saya belum memakai framework apa-apa. Masih sederhana menggunakan css. Kedepannya saya akan perbaiki lagi. 
+
+	Sering bingung sendiri juga, karena saya pakai MAMP (saya sudah menambahkan password root agar dapat diakses),tapi ketika menambahkan data, data tidak bisa ditambahkan , tetapi di laptop lain yang memakai XAMPP bisa ditambahkan (saya sudah menghapus password root dari MAMP karena XAMPP tidak perlu password). Mungkin MAMP saya perlu di update. 
